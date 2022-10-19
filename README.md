@@ -1,5 +1,5 @@
 ### Hi There 👋
-<p>I'm  Kenan Koçer. I have been dealing with software for 10 years. My information</p>
+<p>I'm  Kenan Koçer. I have been doing software business for 10 years. Below is my information</p>
 
 <h3> Contact Me </h3>
   <a href="https://www.linkedin.com/in/kenankocer/" target="_blank" rel="nofollow"><img alt="Linkedin hesabım" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
