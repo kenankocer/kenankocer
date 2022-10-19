@@ -3,7 +3,7 @@
 
 <h3> Contact Me </h3>
   <a href="https://www.linkedin.com/in/kenankocer/" target="_blank" rel="nofollow"><img alt="Linkedin hesabım" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:kenankocer90@gmail.com" target="_blank" rel="nofollow"><img alt="Eren's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:kenankocer90@gmail.com" target="_blank" rel="nofollow"><img alt="Kenan's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
  <h3>Technologies and tools I use</h3>
  
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></img>
@@ -12,3 +12,8 @@
 <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></img>
 <img src="https://img.shields.io/badge/-java-yellow"></img>
 <img src="https://img.shields.io/badge/-spring%20framework-brightgreen"></img>
+
+
+
+
+
